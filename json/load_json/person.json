@@ -1,0 +1,31 @@
+[
+    {
+        "name":"Rishit Dixit",
+        "age": "18",
+        "gender":"male",
+        "haircolour":"black",
+        "height":"180 cm"
+    },
+    {
+        "name":"Anand shirole",
+        "age": "17",
+        "gender":"male",
+        "haircolour":"black",
+        "height":"185 cm"
+    },
+    {
+        "name":"Siddesh",
+        "age": "19",
+        "gender":"male",
+        "haircolour":"black",
+        "height":"170 cm"
+    },
+    {
+        "name":"Rama",
+        "age": "19",
+        "gender":"female",
+        "haircolour":"black",
+        "height":"165 cm"
+    }
+    
+]
