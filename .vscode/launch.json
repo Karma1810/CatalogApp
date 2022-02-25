@@ -4,14 +4,15 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+        
         {
-            "name": "catalogapp2",
+            "name": "CatalogApp-1",
             "request": "launch",
             "type": "dart",
             "program": "lib/main.dart"
         },
         {
-            "name": "catalogapp2 (profile mode)",
+            "name": "CatalogApp-1(profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
